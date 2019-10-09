@@ -2,7 +2,7 @@
 
 ## Description
 - Pneumonia Detection with Chest X-Ray images. 
-- Image classification built on top of InceptionV3 pre-trained model using Keras.
+- Image classification built on top of VGG16 pre-trained model using Tensorflow 2.0 and Keras.
 
 ## Topic
 
